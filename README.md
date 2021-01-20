@@ -1,12 +1,13 @@
 # List-of-SQL-Commands
 
-<Background
-<SQL, Structured Query Language, is a programming language designed to manage data stored in relational databases. SQL operates through simple, declarative statements. This <keeps data accurate and secure, and it helps maintain the integrity of databases, regardless of size.
+Background
+SQL, Structured Query Language, is a programming language designed to manage data stored in relational databases. SQL operates through simple, declarative statements. This keeps data accurate and secure, and it helps maintain the integrity of databases, regardless of size.
 
 Here’s an appendix of commonly used commands.
 
-##Commands\
-#ALTER TABLE\
+#Commands
+
+ALTER TABLE\
 ALTER TABLE table_name \
 ADD column_name datatype;\
 ALTER TABLE lets you add columns to a table in a database.
